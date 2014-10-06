@@ -1,0 +1,5 @@
+http://www.programcreek.com/2009/06/a-simple-example-to-show-how-to-use-java-properties-file/
+
+http://dev.mysql.com/doc/refman/5.0/en/gis-class-point.html
+
+http://stackoverflow.com/questions/15487762/publish-and-stop-endpoint-web-service-in-java
